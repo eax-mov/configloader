@@ -1,9 +1,9 @@
 {
     "loader": "ON",
     "imagemprincipal": "https://iili.io/d3dbykG.png",
-    "statusgta5": "Updating.. [2/3]",
-    "statusgta5cor": "blue",
-    "ultimaatualizacaogta5": "Last Updated 24.06.2024",
+    "statusgta5": "Undetected",
+    "statusgta5cor": "green",
+    "ultimaatualizacaogta5": "Last Updated 26.06.2024",
     "statuscs2": "Updating..",
     "statuscs2cor": "blue",
     "ultimaatualizacaocs2": "Last Updated 23.06.2024"
